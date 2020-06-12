@@ -1,0 +1,160 @@
+﻿body {
+    font-family: sans-serif;
+}
+.header1 {
+    background-color: #162336;
+}
+.header1  a{
+    text-decoration: none;
+    color: #cccccc;
+    font-size: 10px;
+}
+.header2{
+    background-color: #15b85f;
+    text-transform: uppercase;
+}
+.header2 button {
+    background-color: #162336;
+}
+.header2 a{
+    color: white;
+}
+.header2 li button{
+    background-color: #15b85f;
+    border: none;
+}
+.header2-list a{
+    font-size: 12px;
+}
+.image-text{
+    margin-top: 20%;
+    overflow:auto;
+    background-color: transparent;
+    border: none;
+}
+.image-text h4{
+    font-size: 30px;
+    text-transform: uppercase;
+    color: black;
+}
+.image-text h4 span{    
+    color: #15B85F;
+}
+.image-text a {
+    background-color: #15b85f;
+    color: white;
+    text-transform: uppercase;
+    border: 2px solid #15b85f;
+    font-size: 12px;
+    border-radius: 25px;
+}
+.image-text a:last-child{
+    color: #15b85f;
+    background-color: transparent;
+}
+.text {
+    font-size: 15px;
+    color: grey;
+    opacity: 0.9;
+    line-height: 20px;
+    text-align: justify;
+}
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+.welcome {
+    background-color: #f8f9fe;
+}
+.welcome-text {
+    border: none;
+    background-color: #f8f9fe;
+}
+.welcome a{
+    color: #15b85f
+}
+.welcome-video {
+    box-shadow: 10px -10px #15B85F;
+    outline: 5px solid white;
+    border-radius: 3px;
+    max-width: 100%;
+    height: auto;
+}
+.offer-title{
+    border: none;
+    text-align: center;
+}
+.offer-title span{
+    padding-bottom: 10px;
+    border-bottom: 3px solid #15B85F;
+}
+.offer-image{
+    max-width: 20%;
+    height: auto;
+}
+.offer-box a{
+    color: #15B85F;
+}
+.contact-us {
+    background-color: #f8f9fe;
+}
+.contact-us button{
+    background-color: #15B85F;
+    color: white;
+    text-transform: uppercase;
+    font-size: 12px;
+    border-radius: 25px;
+}
+.contact-us-input {
+    background-color: #f8f9fe;
+}
+.contact-us-submit{
+    padding-bottom: 20%;
+}
+.contact-us-green {
+    color: #15B85F;
+    box-shadow: 0px 0px 20px #cccccc;
+}
+.news-box-green {
+    color: #15B85F;
+    box-shadow: 0px 0px 20px #cccccc;
+}
+.news-box a{
+    font-size: 13px;
+    color: grey;
+    opacity: 0.9;
+    line-height: 20px;
+    text-align: justify;
+}
+.news-box-more a {
+    color: #15B85F
+}
+.footer1 {
+    background-color: #f8f9fe;
+}.footer1 h5{
+     text-align: center;
+ }
+.footer1 button {
+    background-color: #15B85F;
+    color: white;
+    text-transform: uppercase;
+    font-size: 12px;
+    border-radius: 25px;
+}
+.footer2 {
+    background-color: #15B85F;
+}
+.footer2 h6{
+    color: white;
+    text-align: center;
+}
+.footer2 a{
+    color: white;
+    text-transform: uppercase;
+    font-size: 12px;
+}
